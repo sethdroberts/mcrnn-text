@@ -15,7 +15,7 @@ brew install git-lfs
 
 Update git:
 ```python
-git install lfs
+git lfs install
 ```
 
 Track .pth files:
